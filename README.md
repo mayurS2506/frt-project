@@ -1,5 +1,6 @@
 ## frt-project
 This is my future ready talent project in this project I have created a static website using HTML , CSS , JAVAscript for gaming news below is my project preview link.
+## Gihub Repository link mayurs2506.github.io/frt-project/
 ## Project-link https://agreeable-grass-04be3ec10.1.azurestaticapps.net/
 
 # Home 
@@ -21,3 +22,6 @@ This is my future ready talent project in this project I have created a static w
 
 # Contact 
 ![Screenshot (80)](https://user-images.githubusercontent.com/110824393/184469566-a2071409-2662-47a3-a828-16818ed94adc.png)
+
+# Azure Deployment page
+![image](https://user-images.githubusercontent.com/110824393/201484885-058c80de-93a4-40a5-9d4e-ab6128abc49a.png)
